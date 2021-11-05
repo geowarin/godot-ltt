@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgodot_ltt=self.webpackChunkgodot_ltt||[]).push([[965],{4287:function(t){t.exports=JSON.parse('{"allTagsPath":"/godot-ltt/blog/tags","slug":"/godot-ltt/blog/tags/facebook","name":"facebook","count":1,"permalink":"/godot-ltt/blog/tags/facebook"}')}}]);
