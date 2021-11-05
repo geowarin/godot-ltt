@@ -9,7 +9,7 @@ const config = {
   title: 'Godot LTT',
   tagline: 'LTT',
   url: 'https://geowarin.com',
-  baseUrl: '/godot-ltt',
+  baseUrl: '/godot-ltt/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
